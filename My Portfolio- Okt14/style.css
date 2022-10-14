@@ -9,9 +9,12 @@
 
 body{
     border: 1px dashed plum;
+    /* background: linear-gradient(90deg,white,blue); */
     background-image: url(./images/abstract-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    /* background-blend-mode: soft-light; */
+    
 }
 
 img{
