@@ -9,32 +9,42 @@
 
 body{
     border: 1px dashed plum;
-    background-image: url(./images/light-pink-heart-pattern/67663.jpg);
-    background-size: 50% 100%;
+    background-image: url(./images/abstract-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+img{
+    border-radius: 80px;
 }
 
 .name-face{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 5px;
+    
 }
 
 h1{
     font-size:larger;
     font-style: italic;
+    color: aliceblue;
 }
 
 p{
     font-family: FuzzyBubbles;
     margin-left: 2px;
+    color: aliceblue;
 }
 
 h2{
     font-size:larger;
     font-style: italic;
+    color: aliceblue;
 }
 
 .list{
     font-family:'Dancing Script', cursive;
+    color: aliceblue;
 }
