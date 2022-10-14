@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+@font-face{
+    font-family:FuzzyBubbles;
+    src: url(./fonts/Fuzzy_Bubbles/FuzzyBubbles-Regular.ttf);
+}
+
+
+body{
+    border: 1px dashed plum;
+    background-image: url(./images/light-pink-heart-pattern/67663.jpg);
+    background-size: 50% 100%;
+
+}
+
+.name-face{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size:larger;
+    font-style: italic;
+}
+
+p{
+    font-family: FuzzyBubbles;
+    margin-left: 2px;
+}
+
+h2{
+    font-size:larger;
+    font-style: italic;
+}
+
+.list{
+    font-family:'Dancing Script', cursive;
+}
